@@ -339,9 +339,9 @@ nav a {
 
 .arrow-link-one {
   display: flex;
-  color: #000000;
+  color: #ffffff;
   width: fit-content;
-  background-color: transparent;
+  background-color: #155BFD;
   border: 1px solid #155BFD;
   padding: 20px 26px;
   border-radius: 25px;
@@ -358,8 +358,8 @@ nav a {
 .arrow-link-one > .arrow-one {
   width: 8px;
   height: 8px;
-  border-right: 2px solid #000000;
-  border-bottom: 2px solid #000000;
+  border-right: 2px solid #ffffff;
+  border-bottom: 2px solid #ffffff;
   position: relative;
   transform: rotate(-45deg);
   margin-left: 8px;
@@ -395,6 +395,7 @@ nav a {
   color: #155BFD;
   border-color: #000000;
   border-style: solid;
+  background-color: transparent;
   padding: 20px 80px 20px 20px;
   font-size: 1.25rem;
   font-weight: 400;
